@@ -1,0 +1,27 @@
+body {
+    background-color: #B53418;
+}
+div {
+    background-color: rgb(211, 234, 235);
+    border: 7px solid;
+    padding: 12px;
+    width: 50%;
+    margin: 0% auto;
+}
+fieldset {
+    background-color: rgb(148, 143, 143);
+    border: 7px solid;
+}
+legend {
+    background-color: whitesmoke;
+    padding: 1px;
+    border-radius: 55px;
+}
+image{
+    margin-bottom: 16px;
+    float:left;
+    background: url(../proyecto\ finalCV/imagenes/imagen);
+}
+span{
+    border:bold;
+} 
